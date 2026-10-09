@@ -1,0 +1,26 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Dependencias y compilaciones de frontend
+node_modules/
+dist/
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Archivos de prueba y documentos privados
+*.pdf
+*.docx
+*.xlsx
+*.csv

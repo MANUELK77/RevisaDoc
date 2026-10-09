@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vscode/
+*.pdf
+*.docx
+*.xlsx
+*.csv
